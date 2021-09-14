@@ -15,9 +15,4 @@ Welcome to my first Discord.py Project
 - Add you Token and ID in the config file
 - thats it have fun 
 
-If you want to Support me would be cool if you would invite my bot: https://top.gg/bot/872121198622957619
-It can happen that you get some errors if you want to host it yourself feel free to add me on Discord: 0xCoffee#3049
-Other bots i made: https://top.gg/bot/854686776970575892 
-
-
 If you clone it please add a star to my project thank youu!
